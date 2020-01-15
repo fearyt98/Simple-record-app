@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Record Client</string>
+    <string name="start">Начать</string>
+    <string name="return_home">Вернуться на главную</string>
+</resources>

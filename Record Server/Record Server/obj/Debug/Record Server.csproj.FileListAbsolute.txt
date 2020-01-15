@@ -1,0 +1,7 @@
+E:\Record Server\Record Server\bin\Debug\Record Server.exe.config
+E:\Record Server\Record Server\bin\Debug\Record Server.exe
+E:\Record Server\Record Server\bin\Debug\Record Server.pdb
+E:\Record Server\Record Server\obj\Debug\Record Server.csprojAssemblyReference.cache
+E:\Record Server\Record Server\obj\Debug\Record Server.csproj.CoreCompileInputs.cache
+E:\Record Server\Record Server\obj\Debug\Record Server.exe
+E:\Record Server\Record Server\obj\Debug\Record Server.pdb
